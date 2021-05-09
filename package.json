@@ -1,0 +1,15 @@
+{
+  "name": "mock-up-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "author": "momeemt <momiimt@gmail.com> (https://scrapbox.io/momeemt/)",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
